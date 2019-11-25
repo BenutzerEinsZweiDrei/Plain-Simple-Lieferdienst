@@ -11,7 +11,7 @@ Ein Open Source Online Bestellsystem Plugin für Lieferdienste / Lieferservice m
 ## Dependencies
 
 * [Pico CMS](http://picocms.org/download/)
-* [ContactFORM for Pico](http://picocms.org/download/)
+* [ContactFORM for Pico](https://github.com/jflepp/PicoMailForms)
 
 ## Install
 
