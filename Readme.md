@@ -1,6 +1,6 @@
 # Plain Simple Lieferdienst Website
 
-Ein Open Source Online Bestellsystem Plugin für Lieferdienste mit Pico CMS
+Ein Open Source Online Bestellsystem Plugin für Lieferdienste / Lieferservice mit Pico CMS
 
 ![Examplecontent](https://github.com/BenutzerEinsZweiDrei/Plain-Simple-Lieferdienst/blob/master/examplecontent.jpg)
 
@@ -10,8 +10,8 @@ Ein Open Source Online Bestellsystem Plugin für Lieferdienste mit Pico CMS
 
 ## Dependencies
 
-* benötigt Pico CMS
-* benötigt ContactForm Plugin
+* [Pico CMS](http://picocms.org/download/)
+* [ContactFORM for Pico](http://picocms.org/download/)
 
 ## Install
 
